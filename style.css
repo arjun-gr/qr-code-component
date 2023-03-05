@@ -62,9 +62,10 @@ body{
     }
     .container h1{
         color: var(--Dark-blue);
+        font-size: 1.6rem;
     }
     .container p{
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         color: var(--Grayish-blue);
     }
 }
