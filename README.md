@@ -15,7 +15,7 @@ Desktop view
 ![DV](https://user-images.githubusercontent.com/81943867/222965803-283e5cf5-9ddc-4fa4-80e4-482fc5cbda90.jpg)
 
 ### Links
-- Live Site URL: (https://arjun-qr-code.netlify.app/)
+- Live Site URL: (https://arjun-qr-comp.netlify.app)
 
 ### Built with
 - Semantic HTML5 markup
